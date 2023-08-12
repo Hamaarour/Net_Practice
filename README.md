@@ -8,3 +8,6 @@ A network switch connects devices within a network (often a local area network, 
 <p align="center">
     <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/6ENfwtM3iUH99JpYoEC9FY/04abc1654ceff2645f50713394ebcb73/network-switch.svg" width='900px' height='600px'>
 </p>
+*(A local area network (LAN) is a group of connected devices within close physical proximity. Home WiFi networks are one common example of a LAN.)
+
+## What is the difference between a switch and a router?
