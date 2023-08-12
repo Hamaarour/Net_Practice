@@ -10,4 +10,6 @@ A network switch connects devices within a network (often a local area network, 
 </p>
 *(A local area network (LAN) is a group of connected devices within close physical proximity. Home WiFi networks are one common example of a LAN.)
 
-## What is the difference between a switch and a router?
+## What is the purpose of a Hub
+the porpose is to connect all of your network devices toghether on an internal network, it's devices that has a multiple ports that accepts Ethernet connections from network devices
+the only thing a hub knows is when a device is connected to one of its ports.
