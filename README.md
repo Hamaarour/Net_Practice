@@ -16,6 +16,17 @@ the only thing a hub knows is when a device is connected to one of its ports.
 
 ## What is a Switch
 Also a device with multiple ports that accepts Ethernet connections from network devices but Unlike a hub a switch is intelligent . a switch can actually learn the physical adresses of the devices that are connected to it and it stores these physical adresses called Mac adresses in its table 
-<img src="" width="40" height="40" />
+<img src="" width="200" height="150" />
 LINK => [What is a Switch/Hub/Router](https://www.youtube.com/watch?v=1z0ULvg_pW8&t=141s&ab_channel=PowerCertAnimatedVideos)
 
+### In Summary
+
+Hubs and SWitches used to exchange data between devices on a computer network. A hub contains multiple ports. When a packet arrives at one port, it is copied to the other ports so that all segments of the LAN can see all packets, Switch is a device that filters and forwards packets between LAN segments. Switches operate at the data link layer (layer 2) and sometimes the network layer (layer 3) of the OSI Reference Model and therefore support any packet protocol. LANs that use switches to join segments are called switched LANs or, in the case of Ethernet networks, switched Ethernet LANs.
+
+Hub and switches is used to exchanges data whitin a local area network (Lan), Not used to exchange data outside of the local area network (Lan) to the internet.
+
+To exchange data outside your network a device needs to be able to read IP adresses and that's where a router comes in.
+
+## Router
+
+A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork (e.g. the Internet) until it reaches its destination node.
