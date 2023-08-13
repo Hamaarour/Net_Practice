@@ -17,7 +17,7 @@ the only thing a hub knows is when a device is connected to one of its ports.
 ## What is a Switch
 Also a device with multiple ports that accepts Ethernet connections from network devices but Unlike a hub a switch is intelligent . a switch can actually learn the physical adresses of the devices that are connected to it and it stores these physical adresses called Mac adresses in its table.
 <br>
-<img src="https://github.com/Hamaarour/Net_Practice/blob/main/assets/S_H_R.gif" width="500" height="400" />
+<img src="https://github.com/Hamaarour/Net_Practice/blob/main/assets/S_H_R.gif" width="100%" height="400" />
 LINK => [What is a Switch/Hub/Router](https://www.youtube.com/watch?v=1z0ULvg_pW8&t=141s&ab_channel=PowerCertAnimatedVideos)
 
 ### In Summary
