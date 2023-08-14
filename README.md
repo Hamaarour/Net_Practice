@@ -47,3 +47,5 @@ Think of a router as an air traffic controller and data packets as aircraft head
 In order to direct packets effectively, a router uses an internal routing table — a list of paths to various network destinations. The router reads a packet's header to determine where it is going, then consults the routing table to figure out the most efficient path to that destination. It then forwards the packet to the next network in the path.
 
 
+
+
