@@ -49,12 +49,22 @@ In order to direct packets effectively, a router uses an internal routing table 
 
 ### IP Address 
 
+An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. An IP address serves two main functions: host or network interface identification and location addressing.
 
 ### what is a subnetting
 
 Taking a network and dividing it into a sub-networks, called subnets. This is done to take a large network and break it down into smaller networks, to improve performance and security.
 
+## Seven attributes of a Subnet Mask
 
+1- Network ID => 
+2- Broadcast ID =>
+3- First Host IP =>
+4-  Last Host IP =>
+5- Next Network =>
+6-  IP Address =>
+7- Number of IP Addresses in a Sub-Network =>
+8- CIDR/Subnet => 
 
 
 
