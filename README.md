@@ -47,6 +47,14 @@ Think of a router as an air traffic controller and data packets as aircraft head
 In order to direct packets effectively, a router uses an internal routing table — a list of paths to various network destinations. The router reads a packet's header to determine where it is going, then consults the routing table to figure out the most efficient path to that destination. It then forwards the packet to the next network in the path.
 
 
+### IP Address 
+
+
+### what is a subnetting
+
+Taking a network and dividing it into a sub-networks, called subnets. This is done to take a large network and break it down into smaller networks, to improve performance and security.
+
+
 
 
 
