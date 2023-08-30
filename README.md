@@ -82,3 +82,12 @@ Speed Tip #4 :
 Start higher, and subtract. 
 
 
+Types of casting :
+
+1- Unicast
+    *one to one* send data to a single device on a network by Mac address or IP address
+2- Multicast
+    *one to many* send data to a group of devices on a network by Mac address or IP address
+3- Broadcast
+    *one to all* send data to all devices on a network by Mac address or IP address
+        *limited brodcast* 
