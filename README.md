@@ -68,3 +68,10 @@ Taking a network and dividing it into a sub-networks, called subnets. This is do
 
 
 
+
+
+
+
+
+HOST ==> are any device which send or recive traffic
+IP   ==>  is the identity of each host
