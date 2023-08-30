@@ -67,11 +67,18 @@ Taking a network and dividing it into a sub-networks, called subnets. This is do
 8- CIDR/Subnet => 
 
 
-
-
-
-
-
-
 HOST ==> are any device which send or recive traffic
 IP   ==>  is the identity of each host
+=======
+SPEED TESTS:
+============
+Speed Tip #1 : 
+Group Size can be easily multiplied by 10. Then doubled or tripled, as necessary 
+Speed Tip #2 : 
+Every Group Size lands on 128 at some point. 
+Speed Tip #3 : 
+Every group size lands on the Subnet value of the same column, and every column to the LEFT. 
+Speed Tip #4 : 
+Start higher, and subtract. 
+
+
