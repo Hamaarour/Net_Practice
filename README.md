@@ -52,7 +52,7 @@ In order to direct packets effectively, a router uses an internal routing table 
 An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. An IP address serves two main functions: host or network interface identification and location addressing.
 
 ### what is a subnetting
-
+Subnetting is the process of creating a subnetwork (also known as a subnet) within a network. Network interfaces and devices within a subnet can communicate with each other directly. Routers facilitate communication between different subnets.
 Taking a network and dividing it into a sub-networks, called subnets. This is done to take a large network and break it down into smaller networks, to improve performance and security.
 
 ## Seven attributes of a Subnet Mask
