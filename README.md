@@ -99,3 +99,16 @@ TCP organizes data so that it can be transmitted between a server and a client. 
 HOW send data : As we know in TCP protocol, for the first time, it tries to sent one packet to the destination, and check if the packet is well received by ensuring the connection remains live. Each time, it adds a packet to be sent, meaning that for the second time, it sends the double of packets sent before, and checks if the connection remains good. For the third time, it adds the double of the previous number of packets of the previous one, until a problem occurred in this connection. At this moment, it goes back the previous number of packets sent in order to keep this connection for an end-to-end data delivery of data, to Increase the transmitter speed and maintain accuracy. We can clarify this process with a simple mathematical formulate, which is: 2^(n). Where n is the number of times to send the packet in this connection correctly.
 
 As a result, high-level protocols that need to transmit data all use TCP Protocol.Examples include peer-to-peer sharing methods like File Transfer Protocol (FTP), Secure Shell (SSH)...
+
+# SUBNET MASK
+
+A subnet mask is a 32 bits (4 bytes) address used to distinguish between a network address and a host address in the IP address. It defines the range of IP addresses that can be used within a network or a subnet.
+
+# Routing Table
+
+A routing table is a data table stored in a router or a network host that lists the routes to particular network destinations. In NetPractice, the routing table consists of 2 elements:
+
+Destination: The destination specifies a network address on which a host is the end target of the packets. The route of default or 0.0.0.0/0, is the route that takes effect when no other route is available for an IP destination address. The default route will use the next-hop address to send the packets on their way without giving a specific destination. The default route will match any network.
+
+Next hop: The next hop refers to the next closest router a packet can go through. It is the IP address of the next router on the packet's way. Every single router maintains its routing table with a next hop address.
+
